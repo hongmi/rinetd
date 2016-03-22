@@ -1,0 +1,11 @@
+#+TITLE: 沧海遗珠之rinetd源码解析
+#+AUTHOR: 鸿悯
+#+Email: lispmm@outlook.com
+
+* 引子
+* 源码架构
+* 端口转发状态机
+* Cookies
+** 字符串匹配
+** 配置读取
+* 结语
